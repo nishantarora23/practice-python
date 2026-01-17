@@ -1,0 +1,5 @@
+server=web01 cpu=20% memory=35%
+server=db01 cpu=55% memory=70%
+server=web01 cpu=25% memory=40%
+server=db01 cpu=bad_value memory=65%
+server=cache01 cpu=10% memory=15%
