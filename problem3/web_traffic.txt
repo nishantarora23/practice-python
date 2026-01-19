@@ -1,0 +1,5 @@
+date=2026-01-17 user=alice page=/home status=200
+date=2026-01-17 user=bob page=/login status=200
+date=2026-01-17 user=alice page=/profile status=404
+date=2026-01-17 user=alice page=/home status=200
+date=2026-01-17 user=bob page=/dashboard status=500
