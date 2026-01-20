@@ -25,4 +25,3 @@ for user, actions in logger.items():
         success = status.count("success")
         failed = total - success
         print(f"\t{action} -> Total: {total}, Success: {success}, Fail: {failed}")
-        
